@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+An engaging simulation game featuring immersive gameplay, rich mechanics, and hours of entertainment. Experience Motor Town: Behind The Wheel in its full glory.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,11 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | Min: Intel Core i5-760 2.8 GHz / AMD Athlon X4 740 3.2 GHz / Rec: Intel Core i7-4771 3.5 GHz / AMD FX-9370 4.4 GHz | Intel Core i5 / Apple M1 |
+| **Memory** | 8 GB RAM | 8 GB RAM |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | 5 GB available space | 5 GB available space |
+| **OS *** | Windows 7/8.1/10 (64-bit Required) | Windows 7/8.1/10 (64-bit Required) |
 
 ---
 
